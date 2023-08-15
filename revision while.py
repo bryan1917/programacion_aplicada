@@ -1,5 +1,5 @@
-import time
+import time "time es la libreria para el tiempo"
 
 while True:
-    print("revisando ciclo whlie")
+    print("revisando ciclo while")
     time.sleep(0.5)
