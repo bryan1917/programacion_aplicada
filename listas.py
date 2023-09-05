@@ -1,6 +1,6 @@
 #################LISTAS####################
 ###########################################
-my_lista = ['Rojo', 'Azul', 'Amarillo', 'Naranja', 'Violeta', 'Verde']
+my_lista = ['gris', 'Azul', 'Amarillo', 'Naranja', 'Violeta', 'Verde']
 #input()
 print(my_lista)
 print(type(my_lista))
@@ -75,8 +75,8 @@ print(my_tupla[2])
 
 
 #Evaluar si un elemento está contenido en la tupla (Devuelve un valor booleano)
-print('Rojo' in my_tupla)
-print(my_tupla.count('Rojo'))
+print('gris' in my_tupla)
+print(my_tupla.count('gris'))
 
 #Tupla con un solo elemento
 my_tupla_unitaria = ('Blanco')
